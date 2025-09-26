@@ -163,6 +163,7 @@
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
         <DCCReference Include="uMenuPrincipal.pas"/>
+        <DCCReference Include="..\..\core\models\uCliente.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
