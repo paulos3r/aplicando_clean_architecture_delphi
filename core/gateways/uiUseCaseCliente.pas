@@ -2,7 +2,7 @@ unit uiUseCaseCliente;
 
 interface
 
-uses uCliente;
+uses uCliente, uResponse, uDTOCliente;
 
 type
 
