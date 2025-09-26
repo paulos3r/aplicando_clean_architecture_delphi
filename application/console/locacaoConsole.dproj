@@ -164,6 +164,7 @@
         </DelphiCompile>
         <DCCReference Include="uMenuPrincipal.pas"/>
         <DCCReference Include="..\..\core\models\uCliente.pas"/>
+        <DCCReference Include="..\..\core\gateways\uiUseCaseCliente.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
