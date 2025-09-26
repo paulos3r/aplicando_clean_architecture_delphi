@@ -10,7 +10,9 @@ uses
   uCliente in '..\..\core\models\uCliente.pas',
   uiUseCaseCliente in '..\..\core\gateways\uiUseCaseCliente.pas',
   uResponse in '..\..\core\responses\uResponse.pas',
-  uDTOCliente in '..\..\core\dto\uDTOCliente.pas';
+  uDTOCliente in '..\..\core\dto\uDTOCliente.pas',
+  uUseCaseCliente in '..\..\core\usecases\uUseCaseCliente.pas',
+  uEnum in '..\..\core\enums\uEnum.pas';
 
 begin
   try

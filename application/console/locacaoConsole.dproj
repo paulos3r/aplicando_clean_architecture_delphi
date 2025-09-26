@@ -167,6 +167,8 @@
         <DCCReference Include="..\..\core\gateways\uiUseCaseCliente.pas"/>
         <DCCReference Include="..\..\core\responses\uResponse.pas"/>
         <DCCReference Include="..\..\core\dto\uDTOCliente.pas"/>
+        <DCCReference Include="..\..\core\usecases\uUseCaseCliente.pas"/>
+        <DCCReference Include="..\..\core\enums\uEnum.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>
